@@ -1,0 +1,5 @@
+alias gt="git status"
+alias gc="git commit -m"
+alias gs="git show"
+alias gl="git log"
+alias gch="git checkout"
